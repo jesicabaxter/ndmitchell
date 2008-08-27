@@ -14,7 +14,7 @@ Some bugs are marked beginner. These should be accessible to someone without a g
 
 == !HelpMe Bugs ==
 
-These bugs are ones where I could do with some help. I either need advice from people, or there is some piece of self-contained work that could usefully be done by someone else. Often these bugs are important, but don't justify the amount of work I'd have to do, so are currently on the backburner.
+These bugs are ones where I could do with some help. I either need advice from people, or there is some piece of self-contained work that could usefully be done by someone else. Some of these bugs are important, but don't justify the amount of work I'd have to do, so are currently on the backburner. Other bugs are unimportant, but there is some demand for.
 
 == Priorities ==
 
